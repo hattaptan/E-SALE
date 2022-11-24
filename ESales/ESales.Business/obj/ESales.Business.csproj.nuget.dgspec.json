@@ -1,0 +1,255 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\TAN\\source\\repos\\ESales\\ESales.Business\\ESales.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\TAN\\source\\repos\\ESales\\ESales.Business\\ESales.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TAN\\source\\repos\\ESales\\ESales.Business\\ESales.Business.csproj",
+        "projectName": "ESales.Business",
+        "projectPath": "C:\\Users\\TAN\\source\\repos\\ESales\\ESales.Business\\ESales.Business.csproj",
+        "packagesPath": "C:\\Users\\TAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TAN\\source\\repos\\ESales\\ESales.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\TAN\\source\\repos\\ESales\\ESales.DataAccess\\ESales.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\TAN\\source\\repos\\ESales\\ESales.DataAccess\\ESales.DataAccess.csproj"
+              },
+              "C:\\Users\\TAN\\source\\repos\\ESales\\ESales.Entity\\ESales.Entity.csproj": {
+                "projectPath": "C:\\Users\\TAN\\source\\repos\\ESales\\ESales.Entity\\ESales.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\TAN\\source\\repos\\ESales\\ESales.Core\\ESales.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TAN\\source\\repos\\ESales\\ESales.Core\\ESales.Core.csproj",
+        "projectName": "ESales.Core",
+        "projectPath": "C:\\Users\\TAN\\source\\repos\\ESales\\ESales.Core\\ESales.Core.csproj",
+        "packagesPath": "C:\\Users\\TAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TAN\\source\\repos\\ESales\\ESales.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NHibernate": {
+              "target": "Package",
+              "version": "[5.3.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\TAN\\source\\repos\\ESales\\ESales.DataAccess\\ESales.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TAN\\source\\repos\\ESales\\ESales.DataAccess\\ESales.DataAccess.csproj",
+        "projectName": "ESales.DataAccess",
+        "projectPath": "C:\\Users\\TAN\\source\\repos\\ESales\\ESales.DataAccess\\ESales.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\TAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TAN\\source\\repos\\ESales\\ESales.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\TAN\\source\\repos\\ESales\\ESales.Entity\\ESales.Entity.csproj": {
+                "projectPath": "C:\\Users\\TAN\\source\\repos\\ESales\\ESales.Entity\\ESales.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentNHibernate": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\TAN\\source\\repos\\ESales\\ESales.Entity\\ESales.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TAN\\source\\repos\\ESales\\ESales.Entity\\ESales.Entity.csproj",
+        "projectName": "ESales.Entity",
+        "projectPath": "C:\\Users\\TAN\\source\\repos\\ESales\\ESales.Entity\\ESales.Entity.csproj",
+        "packagesPath": "C:\\Users\\TAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TAN\\source\\repos\\ESales\\ESales.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\TAN\\source\\repos\\ESales\\ESales.Core\\ESales.Core.csproj": {
+                "projectPath": "C:\\Users\\TAN\\source\\repos\\ESales\\ESales.Core\\ESales.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

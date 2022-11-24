@@ -1,0 +1,17 @@
+C:\Users\TAN\source\repos\ESales\ESales.DataAccess\bin\Debug\net6.0\ESales.DataAccess.deps.json
+C:\Users\TAN\source\repos\ESales\ESales.DataAccess\bin\Debug\net6.0\ESales.DataAccess.dll
+C:\Users\TAN\source\repos\ESales\ESales.DataAccess\bin\Debug\net6.0\ref\ESales.DataAccess.dll
+C:\Users\TAN\source\repos\ESales\ESales.DataAccess\bin\Debug\net6.0\ESales.DataAccess.pdb
+C:\Users\TAN\source\repos\ESales\ESales.DataAccess\bin\Debug\net6.0\ESales.Core.dll
+C:\Users\TAN\source\repos\ESales\ESales.DataAccess\bin\Debug\net6.0\ESales.Entity.dll
+C:\Users\TAN\source\repos\ESales\ESales.DataAccess\bin\Debug\net6.0\ESales.Entity.pdb
+C:\Users\TAN\source\repos\ESales\ESales.DataAccess\bin\Debug\net6.0\ESales.Core.pdb
+C:\Users\TAN\source\repos\ESales\ESales.DataAccess\obj\Debug\net6.0\ESales.DataAccess.csproj.AssemblyReference.cache
+C:\Users\TAN\source\repos\ESales\ESales.DataAccess\obj\Debug\net6.0\ESales.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAN\source\repos\ESales\ESales.DataAccess\obj\Debug\net6.0\ESales.DataAccess.AssemblyInfoInputs.cache
+C:\Users\TAN\source\repos\ESales\ESales.DataAccess\obj\Debug\net6.0\ESales.DataAccess.AssemblyInfo.cs
+C:\Users\TAN\source\repos\ESales\ESales.DataAccess\obj\Debug\net6.0\ESales.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\TAN\source\repos\ESales\ESales.DataAccess\obj\Debug\net6.0\ESales.DataAccess.csproj.CopyComplete
+C:\Users\TAN\source\repos\ESales\ESales.DataAccess\obj\Debug\net6.0\ESales.DataAccess.dll
+C:\Users\TAN\source\repos\ESales\ESales.DataAccess\obj\Debug\net6.0\ref\ESales.DataAccess.dll
+C:\Users\TAN\source\repos\ESales\ESales.DataAccess\obj\Debug\net6.0\ESales.DataAccess.pdb

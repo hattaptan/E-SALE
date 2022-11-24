@@ -1,0 +1,12 @@
+C:\Users\TAN\source\repos\ESales\ESales.Core\bin\Debug\net6.0\ESales.Core.deps.json
+C:\Users\TAN\source\repos\ESales\ESales.Core\bin\Debug\net6.0\ESales.Core.dll
+C:\Users\TAN\source\repos\ESales\ESales.Core\bin\Debug\net6.0\ref\ESales.Core.dll
+C:\Users\TAN\source\repos\ESales\ESales.Core\bin\Debug\net6.0\ESales.Core.pdb
+C:\Users\TAN\source\repos\ESales\ESales.Core\obj\Debug\net6.0\ESales.Core.csproj.AssemblyReference.cache
+C:\Users\TAN\source\repos\ESales\ESales.Core\obj\Debug\net6.0\ESales.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAN\source\repos\ESales\ESales.Core\obj\Debug\net6.0\ESales.Core.AssemblyInfoInputs.cache
+C:\Users\TAN\source\repos\ESales\ESales.Core\obj\Debug\net6.0\ESales.Core.AssemblyInfo.cs
+C:\Users\TAN\source\repos\ESales\ESales.Core\obj\Debug\net6.0\ESales.Core.csproj.CoreCompileInputs.cache
+C:\Users\TAN\source\repos\ESales\ESales.Core\obj\Debug\net6.0\ESales.Core.dll
+C:\Users\TAN\source\repos\ESales\ESales.Core\obj\Debug\net6.0\ref\ESales.Core.dll
+C:\Users\TAN\source\repos\ESales\ESales.Core\obj\Debug\net6.0\ESales.Core.pdb

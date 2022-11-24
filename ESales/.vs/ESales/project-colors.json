@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "48e82bf8-627c-4930-849e-6e34231a505d": {
+      "ProjectGuid": "48e82bf8-627c-4930-849e-6e34231a505d",
+      "DisplayName": "ESales.Entity",
+      "ColorIndex": 0
+    },
+    "6fcd89ce-3d60-4e4f-8af7-b0afa4e57340": {
+      "ProjectGuid": "6fcd89ce-3d60-4e4f-8af7-b0afa4e57340",
+      "DisplayName": "ESales.DataAccess",
+      "ColorIndex": 1
+    },
+    "804515bb-5343-4521-9e15-4ddcc4718ce6": {
+      "ProjectGuid": "804515bb-5343-4521-9e15-4ddcc4718ce6",
+      "DisplayName": "ESales.Core",
+      "ColorIndex": 2
+    },
+    "0fd7acad-6035-456d-9b90-3c5303e70079": {
+      "ProjectGuid": "0fd7acad-6035-456d-9b90-3c5303e70079",
+      "DisplayName": "ESales.Business",
+      "ColorIndex": 3
+    },
+    "600bb9e9-6b74-404c-8384-42d62053bd81": {
+      "ProjectGuid": "600bb9e9-6b74-404c-8384-42d62053bd81",
+      "DisplayName": "ESales.API",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "919fd655-f067-4ba2-b932-d926e85dd6b4": {
+      "ProjectGuid": "919fd655-f067-4ba2-b932-d926e85dd6b4",
+      "DisplayName": "Script Documents",
+      "ColorIndex": 5
+    },
+    "2cb375e8-1e34-46fe-999a-c150bb9941f7": {
+      "ProjectGuid": "2cb375e8-1e34-46fe-999a-c150bb9941f7",
+      "DisplayName": "Frontend.Entity",
+      "ColorIndex": 6
+    },
+    "dacecd08-0aaf-438d-81c3-49a700cff976": {
+      "ProjectGuid": "dacecd08-0aaf-438d-81c3-49a700cff976",
+      "DisplayName": "Frontend.Configurations",
+      "ColorIndex": 7
+    },
+    "1345e11f-8d1d-4aa5-b87e-fcbd843b3a8a": {
+      "ProjectGuid": "1345e11f-8d1d-4aa5-b87e-fcbd843b3a8a",
+      "DisplayName": "Frontend.Business",
+      "ColorIndex": 8
+    },
+    "e9252036-a319-4291-a2bd-eeda23f89bd9": {
+      "ProjectGuid": "e9252036-a319-4291-a2bd-eeda23f89bd9",
+      "DisplayName": "ESales.WebUI",
+      "ColorIndex": 9
+    },
+    "aa8109bb-895d-4282-9a3f-7b34f0bbde06": {
+      "ProjectGuid": "aa8109bb-895d-4282-9a3f-7b34f0bbde06",
+      "DisplayName": "ESales.WebUI",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}
