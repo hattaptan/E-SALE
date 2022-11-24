@@ -39,8 +39,7 @@ namespace ESales.DataAccess.Helpers
         private static void TreatConfiguration(Configuration configuration)
         {
 
-            //After database created manually, if tables not exist, creates tables automatically.
-            // if a new table is mapped afterwards, it migrates only to that table.
+        
             var update = new SchemaUpdate(configuration);
             update.Execute(false, true);
         }
